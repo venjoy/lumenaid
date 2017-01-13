@@ -1,0 +1,17 @@
+{
+    "name": "venjoy/lumenaid",
+    "description": "Helper classes and function for awesome lumen framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Joy",
+            "email": "joy@venjoy.xyz"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Venjoy\\Lumenaid\\": "src/"
+        }
+    },
+    "require": {}
+}
